@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm a passionate **Computer Science Engineering** student with a minor in **Artificial Intelligence and Machine Learning** at **ABES Engineering College (2022-2026)**. I enjoy problem-solving, creating projects, and exploring new technologies.
 
-🔹 **LeetCode Rating:** 1600+ 🔹 **CodeChef Rating:** 1300+
+🔹 **LeetCode Rating:** 1700+ 🔹 **CodeChef Rating:** 1300+
 
 ## 🔨 Technologies & Skills
 <p align="center">
@@ -38,7 +38,7 @@ A public safety app allowing users to anonymously report incidents like violence
 
 ## 🏆 Achievements
 - 🎖 **Finalist at Geeks for Geeks Hackfest**
-- 🚀 **1600+ rating on LeetCode contests**
+- 🚀 **1700+ rating on LeetCode contests**
 - 🏅 **1300+ rating on CodeChef contests**
 
 ## 📫 Connect with Me
