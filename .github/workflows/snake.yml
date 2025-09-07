@@ -1,7 +1,12 @@
 name: Generate Snake
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
+  schedule: [{cron: "0 0 * * *"}]  # runs daily at midnight
+  workflow_dispatch:               # allow manual run
+  push:
+    branches:
+      - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,7 +15,9 @@ jobs:
         with:
           github_user_name: aaryyann
           outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
