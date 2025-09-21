@@ -5,7 +5,7 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Aryan%20Gupta&desc=Backend%20Developer%20%7C%20CSE%20(AI%20%26%20ML)&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=65&color=0:4f46e5,100:06b6d4&fontColor=ffffff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Aryan%20Gupta&desc=Backend%20Developer&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=65&color=0:4f46e5,100:06b6d4&fontColor=ffffff" alt="banner"/>
 </p>
 
 <p align="center">
@@ -26,17 +26,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **B.Tech in Computer Science (AI & ML)** at **ABES Engineering College** (Nov 2022 – Jul 2026) — **CGPA 8.13**
-- 💼 **Backend Developer Intern** @ **Programming Pathshala** (May 2025 – Present)
+- 🎓 **B.Tech in Computer Science (AI & ML)** at **ABES Engineering College** (Nov 2022 – Jul 2026) — **CGPA 8.19**
+- 💼 **Backend Developer Intern** @ **Programming Pathshala** (May 2025 – July 2025)
+- 💼 **Intern** @ **Pathnovo** (Sep 2025 - Present)
 - 🧩 **Interests:** DSA, scalable backends, microservices, real-time systems, AI-enabled products
 - 🏆 **Coding:** 400+ problems on LeetCode & Codeforces, **LeetCode Max Rating: 1862**
 - 📍 **Location:** India
-
-**What I do:**
-- Build **microservices** with **NestJS, PostgreSQL, Drizzle ORM**, JWT/OAuth
-- Design **KYC & Liveness** flows using **AWS Rekognition** & **GCP Vision**
-- Automate **FFmpeg** workflows (slideshows, video pipelines)
-- Ship **real-time chat** with **WebSockets** and sub-100ms latency
 
 ---
 
