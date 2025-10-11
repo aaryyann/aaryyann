@@ -28,7 +28,7 @@
 ## 👨‍💻 About Me
 - 🎓 **B.Tech in Computer Science (AI & ML)** at **ABES Engineering College** (Nov 2022 – Jul 2026) — **CGPA 8.19**
 - 💼 **Backend Developer Intern** @ **Programming Pathshala** (May 2025 – July 2025)
-- 💼 **Intern** @ **Pathnovo** (Sep 2025 - Present)
+- 💼 **Software Developer Intern** @ **Pathnovo** (Sep 2025 - Present)
 - 🧩 **Interests:** DSA, scalable backends, microservices, real-time systems, AI-enabled products
 - 🏆 **Coding:** 400+ problems on LeetCode & Codeforces, **LeetCode Max Rating: 1862**
 - 📍 **Location:** India
