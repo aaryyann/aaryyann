@@ -63,8 +63,16 @@
 ---
 
 ## 🚀 Projects & Experience
+### 💼 Software Developer Intern — Pathnovo Solutions (Sep 2025 – March 2026)
+- Orchestrated the development of **4+ full-stack features** using Next.js, contributing across UI, APIs, and business logic, ensuring **100% on-time delivery**  
+- Designed and executed **100+ structured tasks** for training and evaluating AI models, improving model performance and response quality  
+- Built **Agentic AI systems and RAG pipelines** using LangChain, enabling multi-step reasoning, tool usage, and context-aware responses over external knowledge bases  
+- Contributed to an **AI-powered CMS platform** integrated with a chatbot for automated content management and real-time interaction  
+- Developed **10+ automation workflows** using n8n, reducing manual effort by **30–40%**  
+- Engineered **AI pipelines for B2B sales workflows**, enabling automated content generation, lead processing, and scalable outreach
 
-### 💼 Backend Developer Intern — Programming Pathshala (May 2025 – Present)
+
+### 💼 Backend Developer Intern — Programming Pathshala (May 2025 – July 2025)
 - 🧱 Engineered a **scalable microservices backend** (NestJS + PostgreSQL + Drizzle)
 - 🔐 Added **OAuth2 (Google)** + **custom JWT** onboarding for **1000+ test users**
 - 🪪 Built **KYC verification** (AWS Rekognition + GCP Vision) → verified **800+ users** with ~85% accuracy
